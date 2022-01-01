@@ -12,3 +12,9 @@ name = "1"
 path = "src/1/main.rs"
 test = false
 bench = false
+
+[[bin]]
+name = "3"
+path = "src/3/main.rs"
+test = false
+bench = false
